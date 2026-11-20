@@ -19,9 +19,9 @@ all_keys.json
 **/run/
 **/.docker/
 
-# private memory (never commit)
-**/impressions/
-**/identity/
-**/group_culture/
-**/prompt_evolution/
-**/knowledge/notebook.md
+# private runtime memory under data/ only (source packages like bot/identity stay tracked)
+**/data/impressions/
+**/data/identity/
+**/data/group_culture/
+**/data/prompt_evolution/
+**/data/knowledge/
