@@ -1,0 +1,27 @@
+# runtime / secrets
+.env
+.env.*
+!.env.example
+**/data/
+**/dist/
+**/.venv/
+**/venv/
+**/__pycache__/
+**/*.egg-info/
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+**/.DS_Store
+**/*.log
+wejam-qr.png
+all_keys.json
+**/wxhome/
+**/run/
+**/.docker/
+
+# private memory (never commit)
+**/impressions/
+**/identity/
+**/group_culture/
+**/prompt_evolution/
+**/knowledge/notebook.md

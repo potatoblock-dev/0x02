@@ -1,0 +1,11 @@
+# Persona packs. Text files live under data/personas/<id>/ by default.
+# Only active is sent to the model; switch in the admin console.
+active = "default"
+
+[[persona]]
+id = "default"
+title = "默认·群聊搭子"
+
+[[persona]]
+id = "template"
+title = "模板·填空用（勿直接当线上人设）"
