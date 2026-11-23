@@ -4,7 +4,7 @@
 
 - **本仓（交付 SoT）**：[potatoblock-dev/0x02](https://github.com/potatoblock-dev/0x02)
 - 产品定位：使用个人号为载体的bot接入微信方案。可以把bot的账号接入群聊。
-- （个人号 GUI，不是官方 Bot API）
+- 个人号 GUI，不是官方 Bot API
 
 ---
 
