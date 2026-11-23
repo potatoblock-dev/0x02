@@ -3,7 +3,8 @@
 一套可自托管的**个人微信群闲聊 bot**：官方 **Linux 微信**跑在 Docker 里（Callus GUI 桥），闲聊脑跑在宿主机。
 
 - **本仓（交付 SoT）**：[potatoblock-dev/0x02](https://github.com/potatoblock-dev/0x02)
-- 产品定位：0x01 文本闲聊脑的微信版（个人号 GUI，不是官方 Bot API）
+- 产品定位：使用个人号为载体的bot接入微信方案。可以把bot的账号接入群聊。
+- （个人号 GUI，不是官方 Bot API）
 
 ---
 
