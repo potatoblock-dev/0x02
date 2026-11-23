@@ -1,5 +1,7 @@
 # 0x02 — Callus GUI 微信闲聊 Bot
 
+**中文** | [English](README.en.md)
+
 一套可自托管的**个人微信群闲聊 bot**：官方 **Linux 微信**跑在 Docker 里（Callus GUI 桥），闲聊脑跑在宿主机。
 
 - **本仓（交付 SoT）**：[potatoblock-dev/0x02](https://github.com/potatoblock-dev/0x02)
